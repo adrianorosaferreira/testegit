@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 g1
-||||||| merged common ancestors
-=======
-g
->>>>>>> feature3
+
